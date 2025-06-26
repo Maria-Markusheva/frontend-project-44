@@ -3,3 +3,8 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Maria-Markusheva/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Maria-Markusheva/frontend-project-44/actions)
+
+## Demo
+
+[🎬 Посмотреть демонстрацию игры brain-even на asciinema](https://asciinema.org/a/9kCBlut7xok4KX0OKfea8H8Yh)  
+[🎬 Посмотреть демонстрацию игры brain-calc на asciinema](https://asciinema.org/a/frDqsUvZCXX1Lpw9P1iuaOVPN)

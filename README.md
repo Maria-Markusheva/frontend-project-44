@@ -9,3 +9,4 @@
 [🎬 Посмотреть демонстрацию игры brain-even на asciinema](https://asciinema.org/a/9kCBlut7xok4KX0OKfea8H8Yh)  
 [🎬 Посмотреть демонстрацию игры brain-calc на asciinema](https://asciinema.org/a/frDqsUvZCXX1Lpw9P1iuaOVPN)
 [🎬 Посмотреть демонстрацию игры brain-progression](https://asciinema.org/a/noZjk8eyVbAxr9p6g6ULWbYv0)
+[🎬 Посмотреть демонстрацию игры brain-prime]( https://asciinema.org/a/cYiaqZOdpsyvxIMSiwFqqu8b9)
